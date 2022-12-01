@@ -32,3 +32,8 @@ suicide| yes no
 ### 1. bring additional features to those not able to be seperated.
 
 ### 2. Cohen's Kappa Measure.
+
+
+# Note on Nov. 30
+
+## 1. 
