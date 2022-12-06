@@ -125,3 +125,14 @@ Inductive principle 在学习的过程中一直在发挥影响作用
 #### 2. Regression.
 1. MSE
 2. MAE
+
+
+# Randomnization:
+Since learning tasks are nested
+-> Nested randomization 'Nested CV'
+2 levels: If task 2 and 3 are combined
+3 levels: if tasks are learned seperately. 
+
+
+
+Nested randomization(CV) for learning:
