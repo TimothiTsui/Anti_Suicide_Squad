@@ -86,3 +86,42 @@ Inductive principle 在学习的过程中一直在发挥影响作用
 
 
 不能随便shuffle时间序列，如果要交叉验证的话，那么需要training data是时间order的。
+
+
+
+
+## 1. Training features might leak infomation:
+
+### 1. I: Certain infectious and parasitic disease.
+
+### 2. II: Neoplasms
+
+### 3. IV: Endocrine, nutritional and metabolic diseases.
+
+### 4. IX: Diseases of the circulatory system.(We probably need to drop this.)
+
+### 5. X: Diseases of the respiratory system.(We probably need to drop this.)
+
+### 6. XI: Diseases of the digestive system
+
+### 7. XIV: Diseases of the genitourinary system.
+
+
+### 8. XVIII: Symtoms, signs and abnormal clinical and laboratory findings, not elsewhere classified.
+
+### 9. XIX: Injury, poisoning and certain other consequences of external causes(We must remove this)
+### 10. XX: External causes of morbidity and mortality(We must remove this)
+
+
+
+# Note on Dec 5:
+## randomization: estimate "generalized" prediction performance
+### 1. Classification.
+1. MCC
+2. AUC
+3. ACC
+4. Recall
+
+#### 2. Regression.
+1. MSE
+2. MAE
