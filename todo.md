@@ -136,3 +136,21 @@ Since learning tasks are nested
 
 
 Nested randomization(CV) for learning:
+
+
+
+# Note on Dec 7:
+
+Sequential learning : 每个morphism都是独立的
+
+
+X_pp ~ h(x,∂;ß)
+X_DT ~ δ(X_pp,η;ε)
+y ~ f(X_DT,θ;ψ)
+
+y~f(δ(h(x,a;ß),η;ε),theta,)
+
+
+
+# Cross Validation
+# Hyperpara Search
